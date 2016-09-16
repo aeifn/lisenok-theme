@@ -1,0 +1,52 @@
+#branding {
+	/*border-top: 2px solid #bbb;*/
+	padding-bottom: 10px;
+	position: relative;
+	z-index: 9999;
+}
+#hor {height:25px;
+	background:#a68484;
+	margin:-20px 0 7px 0;	
+	}
+#logo {
+	display:block;
+	max-width:622px;
+	margin:10px auto 0;
+	}
+#logo img {
+	border:none;
+	}
+#site-title {
+	margin-right: 270px;
+	padding: 3.65625em 0 0;
+}
+#site-title a {
+	color: #111;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 36px;
+	text-decoration: none;
+}
+#site-title a:hover,
+#site-title a:focus,
+#site-title a:active {
+	color: #1982d1;
+}
+#site-description {
+	display:block;
+//	background:#ebd5d5;
+//	color: #a68484;
+	color: #fff;
+	font-size: 19px;
+	font-weight:bold;
+	line-height:33px;
+	text-align:center;
+
+}
+#branding img {
+	height: auto;
+	margin-bottom: -7px;
+	width: 100%;
+}
+
+

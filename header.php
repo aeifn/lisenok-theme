@@ -78,7 +78,7 @@
 <!--Логотип-->
 
 	<span id="logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
-<img alt="<?php bloginfo( 'name' ); ?>" src="/i/logo.png">
+<img alt="<?php bloginfo( 'name' ); ?>" src="/i/lisenok-top.png">
 </a></span>
 <!-- <div id="hor"></div> -->
 

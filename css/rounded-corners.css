@@ -1,0 +1,15 @@
+#secondary {
+	border-radius:10px;
+}
+#page {
+	border-radius:0 0 10px 10px;
+}
+#colophon {
+	border-radius:10px;
+}
+#access {
+	border-radius:10px;
+}
+article {
+	border-radius:10px;
+}
