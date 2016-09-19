@@ -1,4 +1,11 @@
 <?php
+
+add_action ( 'wp_enqueue_scripts', 'correctimg' ) ;
+function correctimg(){
+	$js = get_stylesheet_directory_uri() . '/js/img.js';
+	wp_enqueue_script( 'img', $js, false );
+}
+
 add_action('twentyeleven_credits','signature');
 function signature(){
 ?>
